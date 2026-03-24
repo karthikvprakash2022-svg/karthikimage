@@ -113,3 +113,8 @@ body {
   object-fit: cover;
   display: block;
 }
+ .Network img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
